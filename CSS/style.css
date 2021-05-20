@@ -12,9 +12,10 @@ a.navbar-brand{
     background-color: rgb(113, 221, 4);
 }
 
-.bi.bi-arrow-bar-down{
+.bi.bi-arrow-bar-down,.bi.bi-arrow-bar-up{
     font-size: 2rem;
     color: white;
+    transition: 1s;
 }
 
 a.nav-link{
