@@ -49,3 +49,21 @@ a.nav-link{
 .nav-pills .nav-link:hover{
     color:white;
 }
+
+main{
+    
+    padding-top: 1.5rem;
+}
+
+h3{
+    color: rgb(113, 221, 4);
+}
+
+.bi.bi-x-diamond-fill{
+    font-size: 1.2rem;
+
+}
+
+div.card{
+    margin:5px;
+}
