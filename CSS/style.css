@@ -67,3 +67,7 @@ h3{
 div.card{
     margin:5px;
 }
+
+.card-text a{
+    color:rgb(113, 221, 4);
+}
