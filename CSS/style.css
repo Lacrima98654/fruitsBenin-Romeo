@@ -1,0 +1,35 @@
+header{
+    background-color: rgba(4, 107, 4, 0.856);
+}
+
+a.navbar-brand{
+    font-family: cursive;
+    font-size: 2rem;
+    color: chartreuse;
+}
+
+.button-primary.navbar-toggler{
+    background-color: rgb(113, 221, 4);
+}
+
+.bi.bi-arrow-bar-down{
+    font-size: 2rem;
+    color: white;
+}
+
+a.nav-link{
+    color: black;
+}
+
+.nav-pills .nav-link.active{
+    background-color: rgb(113, 221, 4);
+}
+
+.nav-pills .nav-link.active:hover{
+    background-color: rgb(113, 221, 4);
+    color: white;
+}
+
+.nav-pills .nav-link:hover{
+    color: rgb(113, 221, 4);
+}
