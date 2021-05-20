@@ -12,6 +12,14 @@ a.navbar-brand{
     background-color: rgb(113, 221, 4);
 }
 
+
+.btn.btn-outline-primary{
+    background-color: rgb(113, 221, 4);
+    border-color: transparent;
+    color: white;
+    
+}
+
 .bi.bi-arrow-bar-down,.bi.bi-arrow-bar-up{
     font-size: 2rem;
     color: white;
@@ -19,11 +27,18 @@ a.navbar-brand{
 }
 
 a.nav-link{
-    color: black;
+    color: rgb(113, 221, 4);
+}
+
+.nav-pills .nav-item{
+    margin-right: 2rem;
+    
 }
 
 .nav-pills .nav-link.active{
     background-color: rgb(113, 221, 4);
+    padding-left:1.5rem ;
+    padding-right:1.5rem ;
 }
 
 .nav-pills .nav-link.active:hover{
@@ -32,5 +47,5 @@ a.nav-link{
 }
 
 .nav-pills .nav-link:hover{
-    color: rgb(113, 221, 4);
+    color:white;
 }
