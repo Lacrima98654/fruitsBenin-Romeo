@@ -50,13 +50,12 @@ a.nav-link{
     color:white;
 }
 
-main{
-    
-    padding-top: 1.5rem;
+main#p2{ 
+    padding-top: 1rem;
 }
 
 h3{
-    color: rgb(113, 221, 4);
+    color:black;
 }
 
 .bi.bi-x-diamond-fill{
@@ -70,4 +69,20 @@ div.card{
 
 .card-text a{
     color:rgb(113, 221, 4);
+}
+
+main#carsel,main{
+    background:url("../img/bg1.jpg") no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main#carsel{
+    height:calc(100vh - 8rem);
+}
+footer{
+    text-align: center;
+    background-color: rgba(27, 27, 27, 0.76);
+    color: white;
+    padding: 0.45rem;
 }
