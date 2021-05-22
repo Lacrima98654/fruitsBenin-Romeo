@@ -77,9 +77,15 @@ main#carsel,main{
     background-size: cover;
 }
 
-main#carsel{
+main#carsel,main#p3{
     height:calc(100vh - 8rem);
 }
+
+/*Page Contact*/
+main#p3 .container{
+    padding-top: 30vh;
+}
+
 footer{
     text-align: center;
     background-color: rgba(27, 27, 27, 0.76);
