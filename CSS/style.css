@@ -83,9 +83,23 @@ main#carsel,main#p3{
 
 /*Page Contact*/
 main#p3 .container{
-    padding-top: 30vh;
+    padding-top: 25vh;
+    width: 30vw;
 }
 
+@media screen and (max-width:576px){
+    main#p3 .container{
+        padding-top: 25vh;
+        width: 85vw;
+    }
+}
+
+@media screen and (max-width:768px){
+    main#p3 .container{
+        padding-top: 25vh;
+        width: 60vw;
+    }
+}
 footer{
     text-align: center;
     background-color: rgba(27, 27, 27, 0.76);
