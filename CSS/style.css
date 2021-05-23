@@ -30,11 +30,6 @@ a.nav-link{
     color: rgb(113, 221, 4);
 }
 
-.nav-pills .nav-item{
-    margin-right: 2rem;
-    
-}
-
 .nav-pills .nav-link.active{
     background-color: rgb(113, 221, 4);
     padding-left:1.5rem ;
@@ -71,14 +66,23 @@ div.card{
     color:rgb(113, 221, 4);
 }
 
-main#carsel,main{
+div.fruits{
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-top: 3rem;
+}
+
+div.fruits h3{
+    text-decoration: underline;
+}
+main#p1,main{
     background:url("../img/bg1.jpg") no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
-main#carsel,main#p3{
-    height:calc(100vh - 8rem);
+main#p1,main#p3,main#p4{
+    min-height:calc(100vh - 8rem);
 }
 
 /*Page Contact*/
