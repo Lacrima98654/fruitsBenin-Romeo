@@ -1,8 +1,9 @@
-  <main id="p2">
+<main id="p2">
+<div class="block"> <br>
     <h4 class="ps-2">
-      Les fruits sont classés suivant plusieurs catégories:
-    </h4>
-        <div class="container-fluid pb-md-2" id="noyau">
+      <span>Les fruits sont divers et se classent en six catégories:</span>
+    </h4> <br>
+        <div class="container-fluid" id="noyau">
             <h3>
                 <i class="bi bi-x-diamond-fill text-dark"></i>
                 <span style="text-decoration: underline;">Les fruits à noyau</span>      
@@ -49,7 +50,7 @@
             </div>
         </div>
 
-        <div class="container-fluid pb-md-2" id="pepin">
+        <div class="container-fluid" id="pepin">
             <h3>
                 <i class="bi bi-x-diamond-fill text-dark"></i>
                 <span style="text-decoration: underline;">Les fruits à pépin</span>      
@@ -92,9 +93,10 @@
                   </div>
                 </div>
 
+            </div>
         </div>
 
-        <div class="container-fluid pb-md-2" id="fruit-rouges">
+        <div class="container-fluid" id="fruit-rouges">
             <h3>
                 <i class="bi bi-x-diamond-fill text-dark"></i>
                 <span style="text-decoration: underline;">Les baies et les fruits rouges</span>      
@@ -136,9 +138,10 @@
                 </div>
             </div>
 
+          </div>
         </div>
         
-        <div class="container-fluid pb-md-2" id="agrume">
+        <div class="container-fluid" id="agrume">
           <h3>
               <i class="bi bi-x-diamond-fill text-dark"></i>
               <span style="text-decoration: underline;">Les agrumes</span>      
@@ -149,7 +152,7 @@
               <div class="card-body">
                 <h5 class="card-title">Citron</h5>
                 <p class="card-text">
-                  
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt doloribus sint distinctio libero ipsum officiis voluptatum eaque, odio, fuga consequatur porro aspernatur. Natus earum quos animi sapiente et dolore aliquam.
                 </p>
               </div>
             </div>
@@ -159,7 +162,7 @@
               <div class="card-body">
                 <h5 class="card-title">Clementine</h5>
                 <p class="card-text">
-                  
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum quas earum, tempore porro officia ut? Excepturi vero fugit voluptatem placeat esse laudantium, tempore sint velit libero cumque quaerat, nihil repellat.
                 </p>
               </div>
             </div>
@@ -169,14 +172,15 @@
               <div class="card-body">
                 <h5 class="card-title">Pamplemousse</h5>
                 <p class="card-text">
-                  
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aliquam, nulla sapiente a voluptatem maiores magni, nam unde distinctio quod eveniet illo reiciendis atque veniam inventore ab voluptas quos quae.
                 </p>
               </div>
             </div>
+
           </div>
         </div>
 
-        <div class="container-fluid pb-md-2" id="coque">
+        <div class="container-fluid" id="coque">
             <h3>
                 <i class="bi bi-x-diamond-fill text-dark"></i>
                 <span style="text-decoration: underline;">Les fruits à coque</span>      
@@ -188,7 +192,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Amande</h5>
                   <p class="card-text">
-                    
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum quos deleniti voluptatibus odio numquam ab voluptates? Maxime incidunt adipisci ad, blanditiis vero sint inventore aliquam ex repudiandae dolores ab molestiae?
                   </p>
                 </div>
               </div>
@@ -198,7 +202,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Châtaigne</h5>
                   <p class="card-text">
-                    
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, atque et amet iste soluta quam fugiat pariatur maxime eveniet aperiam ipsum minima hic neque dicta perspiciatis omnis molestiae numquam harum!
                   </p>
                 </div>
               </div>
@@ -208,14 +212,15 @@
                 <div class="card-body">
                   <h5 class="card-title">Noisettes</h5>
                   <p class="card-text">
-                    
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae sit vero quibusdam consequuntur esse dolorem dolorum neque consectetur, fugit consequatur impedit natus dicta unde temporibus, quasi eum voluptatem, iusto nam!
                   </p>
                 </div>
               </div>
+
             </div>
         </div>
 
-        <div class="container-fluid pb-md-2" id="exotiques">
+        <div class="container-fluid" id="exotiques">
             <h3>
                 <i class="bi bi-x-diamond-fill text-dark"></i>
                 <span style="text-decoration: underline;">Les fruits exotiques et tropicaux</span>    
@@ -227,7 +232,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Ananas</h5>
                   <p class="card-text">
-                    
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis, corporis nihil! Aspernatur libero sint animi ratione, unde qui at blanditiis fugiat sequi! Labore quia, repellat dolores ut nisi exercitationem nam.
                   </p>
                 </div>
               </div>
@@ -237,7 +242,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Litchi</h5>
                   <p class="card-text">
-                    
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Est nemo veniam enim recusandae ea explicabo libero architecto, debitis delectus minima deserunt ipsum quia dolor. Hic dolorum corrupti totam ex iure!
                   </p>
                 </div>
               </div>
@@ -247,11 +252,12 @@
                 <div class="card-body">
                   <h5 class="card-title">Mangue</h5>
                   <p class="card-text">
-                    
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus quam ab saepe libero, nemo ducimus, illum quasi mollitia eos quas consequatur totam eligendi iste rerum commodi cupiditate reiciendis dicta vitae.
                   </p>
                 </div>
               </div>
+
             </div>
-        </div>
-        
-  </main>
+        </div> 
+  </div>   
+</main>

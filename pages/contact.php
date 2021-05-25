@@ -1,4 +1,5 @@
-  <main id="p3">
+<main id="p3">
+<div class="block">
     <div class="container">
       <form action="">
         <div class="mb-3">
@@ -11,4 +12,5 @@
         </div>
       </form>
     </div>
-  </main>
+    </div>
+</main>

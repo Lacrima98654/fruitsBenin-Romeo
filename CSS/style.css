@@ -45,9 +45,6 @@ a.nav-link{
     color:white;
 }
 
-main#p2{ 
-    padding-top: 1rem;
-}
 
 h3{
     color:black;
@@ -75,13 +72,18 @@ div.fruits{
 div.fruits h3{
     text-decoration: underline;
 }
+
 main#p1,main{
     background:url("../img/bg1.jpg") no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
-main#p1,main#p3,main#p4{
+div.block{
+    background-color: rgba(200,200,200,0.2);
+}
+
+main#p1,main#p3,main#p4,div.block{
     min-height:calc(100vh - 8rem);
 }
 
@@ -104,6 +106,12 @@ main#p3 .container{
         width: 60vw;
     }
 }
+
+/*Page About*/
+.list-group-item{
+    background: inherit;
+}
+
 footer{
     text-align: center;
     background-color: rgba(27, 27, 27, 0.76);

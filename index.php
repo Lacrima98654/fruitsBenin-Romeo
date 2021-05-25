@@ -13,13 +13,12 @@
 <body>
 
   <?php include("pages/header.html");?>
-
-  <?php 
-    $page = isset($_GET['page'])?$_GET['page']:'home';
-    include('pages/'.$page.'.php');
-  ?>
-
+    <?php 
+      $page = isset($_GET['page'])?$_GET['page']:'home';
+      include('pages/'.$page.'.php');
+    ?>
   <?php include("pages/footer.html");?>
+  
   <script src="JS/jquery-3.6.0.min.js"></script>
   <script src="JS/bootstrap.bundle.min.js"></script>
   <script src="JS/main.js"></script>
