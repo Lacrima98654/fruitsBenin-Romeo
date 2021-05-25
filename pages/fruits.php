@@ -1,46 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A la découverte des fruits du monde">
-    <meta name="author" content="Roméo KAKPO">
-    <link rel="stylesheet" href="../CSS/bootstrap.min.css">
-    <link rel="stylesheet" href="../CSS/bootstrap-icons.css">
-    <link rel="stylesheet" href="../CSS/style.css">
-    <title>Saveurs Fruitées</title> 
-</head>
-<body>
-  <header class="navbar navbar-expand-md px-2 px-lg-5 fixed-bar">
-    <a class="navbar-brand" href="../index.html">Fruit's World</a>
-      <div class="button-primary navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbars" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="bi bi-arrow-bar-down"></i>
-      </div>
-
-      <div class="collapse navbar-collapse position-relative" id="navbars">
-        <div class="input-group mx-md-2 mx-lg-5">
-          <input type="text" class="form-control ms-md-5" placeholder="Search" aria-describedby="button-addon2">
-          <button class="btn btn-outline-primary me-md-5" type="button" id="button-addon2"><i class="bi bi-search"></i></button>
-        </div>
-        
-        <ul class="navbar-nav mt-2 mt-md-0 mb-2 mb-sm-0 position-relative end-0 nav-pills">
-          <li class="nav-item me-lg-4">
-            <a class="nav-link" aria-current="page" href="../index.html">Home</a>
-          </li>
-          <li class="nav-item me-lg-4">
-            <a class="nav-link active" href="fruits.html">Fruits</a>
-          </li>
-          <li class="nav-item me-lg-4">
-            <a class="nav-link" href="contact.html">Contact</a>
-          </li>
-          <li class="nav-item me-lg-4">
-            <a class="nav-link" href="about.html">About</a>
-          </li>
-        </ul>
-        
-      </div>
-  </header>
-
   <main id="p2">
     <h4 class="ps-2">
       Les fruits sont classés suivant plusieurs catégories:
@@ -52,7 +9,7 @@
             </h3>
             <div class="row justify-content-around">
                 <div class="card col-sm-3">
-                    <img src="../img/abricot.jpg" class="card-img-top" alt="abricot">
+                    <img src="img/abricot.jpg" class="card-img-top" alt="abricot">
                     <div class="card-body">
                       <h5 class="card-title">Abricot</h5>
                       <p class="card-text">
@@ -65,7 +22,7 @@
                 </div>
 
                 <div class="card col-sm-3">
-                    <img src="../img/cerise.jpg" class="card-img-top" alt="cerise">
+                    <img src="img/cerise.jpg" class="card-img-top" alt="cerise">
                     <div class="card-body">
                       <h5 class="card-title">Cerise</h5>
                       <p class="card-text">
@@ -78,7 +35,7 @@
                 </div>
     
                 <div class="card col-sm-3">
-                    <img src="../img/prune.jpg" class="card-img-top" alt="prune">
+                    <img src="img/prune.jpg" class="card-img-top" alt="prune">
                     <div class="card-body">
                       <h5 class="card-title">Prune</h5>
                       <p class="card-text">
@@ -100,7 +57,7 @@
 
             <div class="row justify-content-around">
                 <div class="card col-sm-3">
-                    <img src="../img/coing.png" class="card-img-top" alt="coing">
+                    <img src="img/coing.png" class="card-img-top" alt="coing">
                     <div class="card-body">
                       <h5 class="card-title">Coing</h5>
                       <p class="card-text">
@@ -112,7 +69,7 @@
                 </div>
 
                 <div class="card col-sm-3">
-                  <img src="../img/melon.jpg" class="card-img-top" alt="melon">
+                  <img src="img/melon.jpg" class="card-img-top" alt="melon">
                   <div class="card-body">
                     <h5 class="card-title">Melon</h5>
                     <p class="card-text">
@@ -124,7 +81,7 @@
                 </div>
 
                 <div class="card col-sm-3">
-                  <img src="../img/poire.jpg" class="card-img-top" alt="poire">
+                  <img src="img/poire.jpg" class="card-img-top" alt="poire">
                   <div class="card-body">
                     <h5 class="card-title">Poire</h5>
                     <p class="card-text">     
@@ -145,7 +102,7 @@
 
             <div class="row justify-content-around">
               <div class="card col-sm-3">
-                  <img src="../img/cassis.jpg" class="card-img-top" alt="cassis">
+                  <img src="img/cassis.jpg" class="card-img-top" alt="cassis">
                   <div class="card-body">
                     <h5 class="card-title">Cassis</h5>
                     <p class="card-text">
@@ -157,7 +114,7 @@
               </div>
 
               <div class="card col-sm-3">
-                  <img src="../img/groseille.jpg" class="card-img-top" alt="groseille">
+                  <img src="img/groseille.jpg" class="card-img-top" alt="groseille">
                   <div class="card-body">
                     <h5 class="card-title">Groseille</h5>
                     <p class="card-text">
@@ -169,7 +126,7 @@
               </div>
 
               <div class="card col-sm-3">
-                <img src="../img/raisin.jpg" class="card-img-top" alt="raisin">
+                <img src="img/raisin.jpg" class="card-img-top" alt="raisin">
                 <div class="card-body">
                   <h5 class="card-title">Raisin</h5>
                   <p class="card-text">
@@ -188,7 +145,7 @@
           </h3>
           <div class="row justify-content-around">
             <div class="card col-sm-3">
-              <img src="../img/citron.jpg" class="card-img-top" alt="citron">
+              <img src="img/citron.jpg" class="card-img-top" alt="citron">
               <div class="card-body">
                 <h5 class="card-title">Citron</h5>
                 <p class="card-text">
@@ -198,7 +155,7 @@
             </div>
 
             <div class="card col-sm-3">
-              <img src="../img/clementine.jpg" class="card-img-top" alt="clementine">
+              <img src="img/clementine.jpg" class="card-img-top" alt="clementine">
               <div class="card-body">
                 <h5 class="card-title">Clementine</h5>
                 <p class="card-text">
@@ -208,7 +165,7 @@
             </div>
 
             <div class="card col-sm-3">
-              <img src="../img/pamplemousse.jpg" class="card-img-top" alt="pamplemousse">
+              <img src="img/pamplemousse.jpg" class="card-img-top" alt="pamplemousse">
               <div class="card-body">
                 <h5 class="card-title">Pamplemousse</h5>
                 <p class="card-text">
@@ -227,7 +184,7 @@
 
             <div class="row justify-content-around">
               <div class="card col-sm-3">
-                <img src="../img/amande.jpg" class="card-img-top" alt="amande">
+                <img src="img/amande.jpg" class="card-img-top" alt="amande">
                 <div class="card-body">
                   <h5 class="card-title">Amande</h5>
                   <p class="card-text">
@@ -237,7 +194,7 @@
               </div>
   
               <div class="card col-sm-3">
-                <img src="../img/chataigne.jpg" class="card-img-top" alt="chataigne">
+                <img src="img/chataigne.jpg" class="card-img-top" alt="chataigne">
                 <div class="card-body">
                   <h5 class="card-title">Châtaigne</h5>
                   <p class="card-text">
@@ -247,7 +204,7 @@
               </div>
   
               <div class="card col-sm-3">
-                <img src="../img/noisettes.jpg" class="card-img-top" alt="noisettes">
+                <img src="img/noisettes.jpg" class="card-img-top" alt="noisettes">
                 <div class="card-body">
                   <h5 class="card-title">Noisettes</h5>
                   <p class="card-text">
@@ -266,7 +223,7 @@
 
             <div class="row justify-content-around">
               <div class="card col-sm-3">
-                <img src="../img/ananas.jpg" class="card-img-top" alt="ananas">
+                <img src="img/ananas.jpg" class="card-img-top" alt="ananas">
                 <div class="card-body">
                   <h5 class="card-title">Ananas</h5>
                   <p class="card-text">
@@ -276,7 +233,7 @@
               </div>
   
               <div class="card col-sm-3">
-                <img src="../img/litchi.jpg" class="card-img-top" alt="litchi">
+                <img src="img/litchi.jpg" class="card-img-top" alt="litchi">
                 <div class="card-body">
                   <h5 class="card-title">Litchi</h5>
                   <p class="card-text">
@@ -286,7 +243,7 @@
               </div>
   
               <div class="card col-sm-3">
-                <img src="../img/mangue.jpg" class="card-img-top" alt="Mangue">
+                <img src="img/mangue.jpg" class="card-img-top" alt="Mangue">
                 <div class="card-body">
                   <h5 class="card-title">Mangue</h5>
                   <p class="card-text">
@@ -298,12 +255,3 @@
         </div>
         
   </main>
-
-  <footer class="container-fluid">
-    <p>Site web réalisé par <a href="">Roméo KAKPO</a></p>
-  </footer>
-  <script src="../JS/jquery-3.6.0.min.js"></script>
-  <script src="../JS/bootstrap.bundle.min.js"></script>
-  <script src="../JS/main.js"></script>
-</body>
-</html>
